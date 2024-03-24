@@ -2,11 +2,11 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 
 //React Element
-const heading1 = (
-  <h1 className="head" tabIndex="5">
-    Namaste React
-  </h1>
-);
+// const heading1 = (
+//   <h1 className="head" tabIndex="5">
+//     Namaste React
+//   </h1>
+// );
 const Heading1 = () => (
   <h1 className="head" tabIndex="5">
     Namaste React
